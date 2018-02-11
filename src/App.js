@@ -9,7 +9,7 @@ class App extends Component {
             height: "100vh"
         }
         return (
-            <iframe style={iframeStyle} src="https://spark.adobe.com/page/iQYm9bUl8WQgp/"></iframe>
+            <iframe title="main" style={iframeStyle} src="https://spark.adobe.com/page/iQYm9bUl8WQgp/"></iframe>
         );
     }
 }
